@@ -10,25 +10,25 @@ let musics=[
 
     {
         id:2,
-        name:"Hymn For The Weekend",
-        artist:"Coldplay",
-        audioSrc:"audios/Coldplay - Hymn For The Weekend (Official Video).mp3",
-        imageSrc:"images/hymn for the weekend.jpg"
-        
-    },
-    {
-        id:3,
-        name:"Alone II",
-        artist:"Alen Waker",
-        audioSrc:"audios/Alone, Pt. II(PagalWorld.com.se).mp3",
-        imageSrc:"images/alone II.jpg"
-    },
-    {
-        id:4,
         name:"Namo Namo",
         artist:"Amit Trivedi",
         audioSrc:"audios/Namo Namo - Lyrical _ Kedarnath _ Sushant Rajput _ Sara Ali Khan _ Amit Trivedi _ Amitabh B.mp3",
         imageSrc:"images/namo namo.webp"
+    },
+   
+    {
+        id:3,
+        name:"Hymn For The Weekend",
+        artist:"Coldplay",
+        audioSrc:"audios/Coldplay - Hymn For The Weekend (Official Video).mp3",
+        imageSrc:"images/hymn for the weekend.jpg"
+    },
+    {
+        id:4,
+        name:"Jee Le Zaraa",
+        artist:"Vishal Dadlani",
+        audioSrc:"audios/Jee Le Zaraa (Talaash).mp3",
+        imageSrc:"images/talaash.jpg",
     },
     {
         id:5,
@@ -37,7 +37,27 @@ let musics=[
         audioSrc:"audios/Taylor Swift - Blank Space.mp3",
         imageSrc:"images/blank space.jpg"
     },
-
+    {
+        id:6,
+        name:"Ishq Bhi Kiya",
+        artist:"Ali Azmat",
+        audioSrc:"audios/Ishq Bhi Kiya Re Maula Full Video Song Jism 2 _ Sunny Leone, Randeep Hooda, Arunnoday Singh.mp3",
+        imageSrc:"images/ishq bhi kiya.jpg"
+    },
+    {
+        id:7,
+        name:"Bad Liar",
+        artist:"Imagine Dragons",
+        audioSrc:"audios/Imagine Dragons - Bad Liar (Official Music Video).mp3",
+        imageSrc:"images/bad liar.jpg"
+    },
+    {
+        id:8,
+        name:"Alone II",
+        artist:"Alen Waker",
+        audioSrc:"audios/Alone, Pt. II(PagalWorld.com.se).mp3",
+        imageSrc:"images/alone II.jpg"
+    },
 
 ]
 
